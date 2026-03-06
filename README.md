@@ -7,8 +7,6 @@ Technical StackHTML5: Semantic structure for accessibility and SEO.CSS3: Custom 
 JavaScript: Used for DOM manipulation and initializing the particle engine.Libraries: tsParticles for the dynamic background.Project StructureThe repository is organized into a modular file 
 structure to ensure maintainability:index.html: The main entry point for the website.style.css: All layout and styling rules, including responsive breakpoints.
 C.L2.js: JavaScript logic for asset initialization and interactivity./images: A dedicated directory for optimized static assets like the logo, product photos, and SVG icons.
-How to ViewThe live version of this rebrand is hosted via GitHub Pages.
-You can access it here:
 AuthorName: Kieron RossStudent 
 ID: w2116487
 Year: 2026
